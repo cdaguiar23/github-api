@@ -11,4 +11,9 @@ A visualização do mesmo pode ser visto no enderço abaixo:
 
 Link: https://github-api-pesquisa-usuarios.herokuapp.com/
 
+Basta colocar algum nome de usuáro válido na caixa de pesquisa e clicar no botão BUSCAR logo ao lado da cai8xa de pesquisa no canto superiror direito conform visto na imagem abaixo
+
+
+![image](https://user-images.githubusercontent.com/67207369/186064108-f1eedfbf-5df9-46a1-ab7f-1d501c058bbd.png)
+
 
