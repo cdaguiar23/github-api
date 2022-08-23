@@ -1,4 +1,4 @@
-# GIHUB API Pesquisa de Uusários
+# GIHUB API Pesquisa de Usuários
 
 Este projeto teve como objetivo o desenvolvimento de uma API utilizando ReactJs para o consumo de pesquisa
 de uusários do GITHUB.
